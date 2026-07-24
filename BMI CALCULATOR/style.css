@@ -1,0 +1,29 @@
+
+body {
+    background-color: pink;
+}
+
+
+h1 {
+    color: yellow;
+    text-align: center;
+    margin-top: 70px;
+}
+
+#input {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+    
+}
+
+#button {
+    text-align: center;
+    
+}
+
+.container {
+    background-color: orange;
+}
