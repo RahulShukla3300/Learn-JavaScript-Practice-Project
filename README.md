@@ -12,17 +12,33 @@ This repository documents my hands-on learning journey. Each project is kept in 
 
 | # | Project | Description | Key concepts | Status |
 |---|---------|-------------|--------------|--------|
-| 1 | [BMI Calculator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/BMI%20CALCULATOR) | Calculates BMI using height and weight and displays the relevant weight category. | Input validation, calculations, conditionals | Completed |
-| 2 | [Bubble Game](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Bubble%20Game) | A 60-second number-matching game with randomly generated bubbles, a target number and score tracking. | DOM generation, events, timers, game logic | Completed |
+| 1 | [BMI Calculator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/BMI%20CALCULATOR) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/BMI%20CALCULATOR/) | Calculates BMI using height and weight and displays the relevant weight category. | Input validation, calculations, conditionals | Completed |
+| 2 | [Bubble Game](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Bubble%20Game) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Bubble%20Game/) | A 60-second number-matching game with randomly generated bubbles, a target number and score tracking. | DOM generation, events, timers, game logic | Completed |
 | 3 | [Calculator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/CALCULATOR%20JS%2CCSS%2CHTML) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/CALCULATOR%20JS%2CCSS%2CHTML/) | Performs basic calculations and includes clear, backspace and error-handling functionality. | Event handling, string operations, error handling | Completed |
-| 4 | [Color Switcher](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Color%20Switcher) | Changes the page background when a user selects one of the available colours. | DOM selection, click events, style manipulation | Completed |
-| 5 | [Digital Clock](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/DIG%20CLOCK) | Displays the current local time and refreshes it every second. | Date object, `setInterval`, DOM updates | Completed |
+| 4 | [Color Switcher](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Color%20Switcher) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Color%20Switcher/) | Changes the page background when a user selects one of the available colours. | DOM selection, click events, style manipulation | Completed |
+| 5 | [Digital Clock](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/DIG%20CLOCK) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/DIG%20CLOCK/) | Displays the current local time and refreshes it every second. | Date object, `setInterval`, DOM updates | Completed |
 | 6 | [Guess the Number](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Guess%20The%20Num) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Guess%20The%20Num/) | A number-guessing game from 1–100 with ten attempts, high/low hints and a restart option. | Random numbers, validation, arrays, game state | Completed |
-| 7 | [Random Password Generator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Random%20Password%20Generator) | Generates an eight-character random password and automatically clears it after five seconds. | Randomisation, loops, strings, `setTimeout` | Completed |
+| 7 | [Random Password Generator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Random%20Password%20Generator) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Random%20Password%20Generator/Index.html) | Generates an eight-character random password and automatically clears it after five seconds. | Randomisation, loops, strings, `setTimeout` | Completed |
 | 8 | [To-Do List](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/To-Do%20List) | A task-management project for practising dynamic list operations. | Forms, DOM manipulation, events | In progress |
 | 9 | [Weather App](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Wheather%20API%20fetch) | A city-based weather interface being developed to practise validation and weather API integration. | User input, validation, Fetch API | In progress |
 
 ## Featured Live Demos
+
+### BMI Calculator
+
+[![BMI Calculator project screenshot](bmi-calculator-screenshot.jpg)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/BMI%20CALCULATOR/)
+
+**Features:** Height and weight inputs, BMI calculation, validation and a clear numerical result.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/BMI%20CALCULATOR/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/BMI%20CALCULATOR)
+
+### Bubble Game
+
+[![Bubble Game project screenshot](bubble-game-screenshot.jpg)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Bubble%20Game/)
+
+**Features:** Random bubbles, target-number matching, a 60-second timer and score tracking.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Bubble%20Game/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Bubble%20Game)
 
 ### Calculator
 
@@ -30,7 +46,25 @@ This repository documents my hands-on learning journey. Each project is kept in 
 
 **Features:** Basic arithmetic operations, clear button, backspace support and calculation error handling.
 
+**Responsive design:** Flexible container and controls adapt to desktop and mobile screen widths.
+
 [View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/CALCULATOR%20JS%2CCSS%2CHTML/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/CALCULATOR%20JS%2CCSS%2CHTML)
+
+### Color Switcher
+
+[![Color Switcher project screenshot](color-switcher-screenshot.jpg)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Color%20Switcher/)
+
+**Features:** Six colour choices, click-based interaction and instant background updates.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Color%20Switcher/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Color%20Switcher)
+
+### Digital Clock
+
+[![Digital Clock project screenshot](digital-clock-screenshot.jpg)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/DIG%20CLOCK/)
+
+**Features:** Current local time, automatic one-second updates and a simple focused display.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/DIG%20CLOCK/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/DIG%20CLOCK)
 
 ### Guess the Number
 
@@ -38,7 +72,17 @@ This repository documents my hands-on learning journey. Each project is kept in 
 
 **Features:** Random number generation, ten attempts, high/low hints, previous guesses and restart functionality.
 
+**Responsive design:** Responsive wrapper, input and button adapt to screens below 600px.
+
 [View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Guess%20The%20Num/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Guess%20The%20Num)
+
+### Random Password Generator
+
+[![Random Password Generator project screenshot](password-generator-screenshot.jpg)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Random%20Password%20Generator/Index.html)
+
+**Features:** One-click generation, an eight-character random password and automatic clearing after five seconds.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Random%20Password%20Generator/Index.html) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Random%20Password%20Generator)
 
 ## Technologies Used
 
@@ -99,7 +143,7 @@ Through these projects, I am practising:
 - Complete the To-Do List functionality
 - Complete the Weather App API integration
 - Improve responsive behaviour across all projects
-- Add screenshots and live demo links for the remaining projects
+- Add screenshots and live demo links after completing the To-Do List and Weather App
 - Improve accessibility and keyboard support
 - Refactor repeated logic and strengthen input validation
 
