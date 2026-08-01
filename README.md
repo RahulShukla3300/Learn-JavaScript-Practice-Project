@@ -14,13 +14,31 @@ This repository documents my hands-on learning journey. Each project is kept in 
 |---|---------|-------------|--------------|--------|
 | 1 | [BMI Calculator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/BMI%20CALCULATOR) | Calculates BMI using height and weight and displays the relevant weight category. | Input validation, calculations, conditionals | Completed |
 | 2 | [Bubble Game](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Bubble%20Game) | A 60-second number-matching game with randomly generated bubbles, a target number and score tracking. | DOM generation, events, timers, game logic | Completed |
-| 3 | [Calculator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/CALCULATOR%20JS%2CCSS%2CHTML) | Performs basic calculations and includes clear, backspace and error-handling functionality. | Event handling, string operations, error handling | Completed |
+| 3 | [Calculator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/CALCULATOR%20JS%2CCSS%2CHTML) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/CALCULATOR%20JS%2CCSS%2CHTML/) | Performs basic calculations and includes clear, backspace and error-handling functionality. | Event handling, string operations, error handling | Completed |
 | 4 | [Color Switcher](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Color%20Switcher) | Changes the page background when a user selects one of the available colours. | DOM selection, click events, style manipulation | Completed |
 | 5 | [Digital Clock](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/DIG%20CLOCK) | Displays the current local time and refreshes it every second. | Date object, `setInterval`, DOM updates | Completed |
-| 6 | [Guess the Number](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Guess%20The%20Num) | A number-guessing game from 1–100 with ten attempts, high/low hints and a restart option. | Random numbers, validation, arrays, game state | Completed |
+| 6 | [Guess the Number](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Guess%20The%20Num) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Guess%20The%20Num/) | A number-guessing game from 1–100 with ten attempts, high/low hints and a restart option. | Random numbers, validation, arrays, game state | Completed |
 | 7 | [Random Password Generator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Random%20Password%20Generator) | Generates an eight-character random password and automatically clears it after five seconds. | Randomisation, loops, strings, `setTimeout` | Completed |
 | 8 | [To-Do List](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/To-Do%20List) | A task-management project for practising dynamic list operations. | Forms, DOM manipulation, events | In progress |
 | 9 | [Weather App](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Wheather%20API%20fetch) | A city-based weather interface being developed to practise validation and weather API integration. | User input, validation, Fetch API | In progress |
+
+## Featured Live Demos
+
+### Calculator
+
+[![Calculator project screenshot](calculator-screenshot.jpg)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/CALCULATOR%20JS%2CCSS%2CHTML/)
+
+**Features:** Basic arithmetic operations, clear button, backspace support and calculation error handling.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/CALCULATOR%20JS%2CCSS%2CHTML/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/CALCULATOR%20JS%2CCSS%2CHTML)
+
+### Guess the Number
+
+[![Guess the Number project screenshot](guess-the-number-screenshot.jpg)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Guess%20The%20Num/)
+
+**Features:** Random number generation, ten attempts, high/low hints, previous guesses and restart functionality.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Guess%20The%20Num/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Guess%20The%20Num)
 
 ## Technologies Used
 
@@ -81,7 +99,7 @@ Through these projects, I am practising:
 - Complete the To-Do List functionality
 - Complete the Weather App API integration
 - Improve responsive behaviour across all projects
-- Add screenshots and live demo links
+- Add screenshots and live demo links for the remaining projects
 - Improve accessibility and keyboard support
 - Refactor repeated logic and strengthen input validation
 
