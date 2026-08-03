@@ -20,7 +20,7 @@ This repository documents my hands-on learning journey. Each project is kept in 
 | 6 | [Guess the Number](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Guess%20The%20Num) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Guess%20The%20Num/) | A number-guessing game from 1–100 with ten attempts, high/low hints and a restart option. | Random numbers, validation, arrays, game state | Completed |
 | 7 | [Random Password Generator](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Random%20Password%20Generator) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Random%20Password%20Generator/Index.html) | Generates an eight-character random password and automatically clears it after five seconds. | Randomisation, loops, strings, `setTimeout` | Completed |
 | 8 | [To-Do List](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/To-Do%20List) | A task-management project for practising dynamic list operations. | Forms, DOM manipulation, events | In progress |
-| 9 | [Weather App](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Wheather%20API%20fetch) | A city-based weather interface being developed to practise validation and weather API integration. | User input, validation, Fetch API | In progress |
+| 9 | [Weather App](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Wheather%20API%20fetch) · [Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Wheather%20API%20fetch/) | Version 1 of a city-based weather app that fetches and displays weather details from an external API. | User input, validation, Fetch API, API integration | Completed v1 |
 
 ## Featured Live Demos
 
@@ -84,6 +84,12 @@ This repository documents my hands-on learning journey. Each project is kept in 
 
 [View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Random%20Password%20Generator/Index.html) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Random%20Password%20Generator)
 
+### Weather App
+
+**Version 1 complete:** City search, input validation and weather API integration for displaying weather details.
+
+[View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Wheather%20API%20fetch/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Wheather%20API%20fetch)
+
 ## Technologies Used
 
 - HTML5
@@ -141,9 +147,8 @@ Through these projects, I am practising:
 ## Planned Improvements
 
 - Complete the To-Do List functionality
-- Complete the Weather App API integration
 - Improve responsive behaviour across all projects
-- Add screenshots and live demo links after completing the To-Do List and Weather App
+- Add screenshots and live demo links for the To-Do List and Weather App
 - Improve accessibility and keyboard support
 - Refactor repeated logic and strengthen input validation
 
