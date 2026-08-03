@@ -86,6 +86,8 @@ This repository documents my hands-on learning journey. Each project is kept in 
 
 ### Weather App
 
+[![Weather App project screenshot](weather-app-screenshot.png)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Wheather%20API%20fetch/)
+
 **Version 1 complete:** City search, input validation and weather API integration for displaying weather details.
 
 [View Live Demo](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Wheather%20API%20fetch/) · [View Source](https://github.com/RahulShukla3300/Learn-JavaScript-Practice-Project/tree/main/Wheather%20API%20fetch)
@@ -148,7 +150,7 @@ Through these projects, I am practising:
 
 - Complete the To-Do List functionality
 - Improve responsive behaviour across all projects
-- Add screenshots and live demo links for the To-Do List and Weather App
+- Add screenshots and live demo links for the To-Do List
 - Improve accessibility and keyboard support
 - Refactor repeated logic and strengthen input validation
 
