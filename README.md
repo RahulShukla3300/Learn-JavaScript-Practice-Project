@@ -86,7 +86,7 @@ This repository documents my hands-on learning journey. Each project is kept in 
 
 ### Weather App
 
-[![Weather App project screenshot](weather-app-screenshot-clear.png)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Wheather%20API%20fetch/)
+[![Weather App project screenshot](weather-app-full-desktop.png)](https://rahulshukla3300.github.io/Learn-JavaScript-Practice-Project/Wheather%20API%20fetch/)
 
 **Version 1 complete:** City search, input validation and weather API integration for displaying weather details.
 
