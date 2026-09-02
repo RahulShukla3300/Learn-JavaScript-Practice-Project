@@ -77,7 +77,7 @@ body {
 
 
 .weather-card.cloudy {
-  background-image: url("Assets/cloudyday.jpg");
+  background-image: url("Assets/cloudy-day-weather-background.png");
 }
 
 .weather-card.sunny {
